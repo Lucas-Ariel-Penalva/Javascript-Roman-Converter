@@ -1,5 +1,5 @@
 # Javascript Roman Numeral Encoder and Decoder
-
+***
 This is a personal implementation of a Roman Numeral Converter. It's a class with **static methods**, which means that you can access the methods without creating an instance of the class.
 
 ### The *RomanNumerals* class has the following methods:
